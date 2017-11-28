@@ -1,0 +1,7 @@
+This file list relevant references:
+
+
+- Bates, N.R., Y.M. Astor, M.J. Church, K. Currie, J.E. Dore, M. González-Dávila, L. Lorenzoni,
+F. Muller-Karger, J. Olafsson, and J.M. Santana-Casiano. 2014. A time-series view of changing
+ocean chemistry due to ocean uptake of anthropogenic CO 2 and ocean acidification.
+Oceanography 27(1):126–141, http://dx.doi.org/10.5670/oceanog.2014.16.

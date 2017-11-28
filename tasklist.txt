@@ -1,0 +1,54 @@
+Hi Jen,
+
+Here are some ideas (as they come out of my head) that you can slowly start exploring.
+Just read You don't to follow this order.
+
+
+---- what you can do now (Preliminary stuff) ------
+
+- Join AZMP-NL github organisation so you can read this file.
+Get familiar with git (how to pull/commit/push).
+Think of an architecture for script/function usage.
+
+- I suggest getting familiar with a reference manager tool (Mendeley, Zotero, JabRef, etc.)
+
+- scholar.google.ca
+This is the place to find peer-reviewed papers.
+Just start by reading the one in the project description I forwarded to you, and these will bring you to more papers.
+I suggest that we add relevant papers that we find in ./paperlist.txt
+
+- https://pangeo-data.github.io/
+For your personal knwoledge, visit this page if you have a chance.
+This is a fairly new initiative, recently funded by the NSF
+These people are possibly the world leaders in term of using big data in Earth science.
+Maybe we should explore using 'xarray' for what we are doing?
+
+- Biochemical data have been placed in AZMP-NL/data
+A snippet to read the data is here: AZMP-NL/python-toolbox/biochem_database_toPython.py
+
+
+---- December 2017 (Explore relationship between variables) ----
+
+- Maybe start by exploring how we're going to read the data: Biochem data is quite easy, but how are we going to manipulate 7 decades of T-S data? Is Xarray woth exploring (see Pangeo above)? We keep in pFiles or export everything in NetCDF? Because you are less familiar (and because this is the core of the project) I suggest starting with biochem data, but I'd like that we sit and think about the best way to "data mining" the physical database.
+
+- Do basic biochemical plots such as:
+  1999-2016 averages transects for each lines;
+  create a function that plots the average profile (with interval of confidence) given a parameter, a time period and a region (lat-lon box);
+  
+- Explore possible seasonal/interannual decoupling between nitrate, silicate and phosphate at St.27 and elsewhere
+(Nitrates-Phosphates & Nitrates-Silicates). See Figures in 'accasp' folder.
+
+- Try any relationship that you might think of after your readings
+
+- (...)
+
+---- January -----
+
+- Start digging into physical data
+
+- Preparation of a poster for OS2018 (meeting starts Feb. 11th)
+
+
+---- February ----
+
+
