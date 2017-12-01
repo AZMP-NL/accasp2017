@@ -5,3 +5,8 @@ This file list relevant references:
 F. Muller-Karger, J. Olafsson, and J.M. Santana-Casiano. 2014. A time-series view of changing
 ocean chemistry due to ocean uptake of anthropogenic CO 2 and ocean acidification.
 Oceanography 27(1):126–141, http://dx.doi.org/10.5670/oceanog.2014.16.
+
+- Projections of Future Trends in Biogeochemical Conditions in the Northwest Atlantic Using CMIP5 Earth System Models
+Diane Lavoie, Nicolas Lambert & Denis Gilbert
+Pages 1-23 | Received 23 Dec 2016, Accepted 24 Aug 2017, Published online: 29 Nov 2017
+    Download citation https://doi.org/10.1080/07055900.2017.1401973 
